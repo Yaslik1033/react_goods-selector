@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACE,YAAa,CACd,QAGC,wBAAyB,CAC1B,OAGC,gBAAiB,CAClB,QAGC,wBAAyB,CACzB,UAAY","file":"main.399f7181.chunk.css","sourcesContent":[".hidden {\n  display: none;\n}\n\n.select {\n  background-color: #91ffaf;\n}\n\nbutton {\n  margin-left: 15px;\n}\n\n.remove {\n  background-color: #ff4545;\n  color: white;\n}\n"]}
